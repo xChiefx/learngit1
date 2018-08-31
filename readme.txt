@@ -9,4 +9,6 @@ Git is free software.
 之前的怎么米勒?
 =======
 haha
->>>>>>> feature1
+>>>>>>> featu
+bug修复
+dadasd
